@@ -1,19 +1,16 @@
 # Completely unsorted! Totally unscientific!
 
-Find below many links to projects, blog posts, news stories, examples, videos, new clients, new brokers, and other things that “should” be somewhere on mqtt.org....
+Find below many links to projects, blog posts, news stories, examples, videos, new clients, new brokers, and other things that “should” be somewhere on the MQTT community website aka mqtt.org....
 
-### PLEASE HELP TO ORGANISE THIS DOCUMENT
+### PLEASE HELP TO ORGANISE THIS CONTENT
 
 ## Why am I here?
 
-This document represents basically a dump of all MQTT-related content that has cropped up online over the past couple of years. Add your own links and content to it, or help to organise the existing stuff, and migrate it to the wiki on mqtt.org (or propose alternative useful locations, either in comments or in the body).
+This document represents basically a dump of all MQTT-related content that has cropped up online over the past couple of years. Add your own links and content to it, or help to organise the existing stuff, and migrate it to a more appropriate section of the wiki (or propose alternative useful locations, either in comments or in the body). This means creating pages and sections that make sense.
 
-Repeat: **PLEASE HELP TO ORGANISE THIS DOCUMENT!!**
+Repeat: **PLEASE HELP TO ORGANISE THIS CONTENT!!**
 
-Oh and one more thing…
-**PLEASE ACTUALLY DO STUFF WITH THIS CONTENT**, like leave comments, tell us if links are dead, move stuff to actual wikis, etc. At least leave some sign that you’ve been here?
-
-As links are moved to the mqtt.org site please shuffle them to the DONE STUFF section
+As links are moved to the wider wiki please shuffle them to the DONE STUFF section at the end
 
 
 ## Larger website TODO items:
