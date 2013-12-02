@@ -1,0 +1,1 @@
+The spec talks about "UTF-8 strings" frequently when it really means "strings that are encoded with UTF-8 that are preceded by a two byte integer indicating the length of the string". This can be confusing.
