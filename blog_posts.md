@@ -30,3 +30,11 @@ If you came across an interesting blog post please add it here.
 *  [MQTT over SSL / TLS] (http://www.embedded101.com/Blogs/PaoloPatierno/tabid/106/entryid/366/MQTT-over-SSL-TLS-with-the-M2Mqtt-library-and-the-Mosquitto-broker.aspx) with the M2Mqtt library and the Mosquitto broker
 
 *  [Internet of Things] (http://www.embedded101.com/Blogs/PaoloPatierno/tabid/106/entryid/377/Internet-of-Things-MQTT-with-2lemetry-platform.aspx) : MQTT with 2lemetry platform
+
+* [Build your own Javascript MQTT web application](http://www.hivemq.com/build-javascript-mqtt-web-application/)
+
+* [MQTT over websockets](http://www.hivemq.com/mqtt-over-websockets-with-hivemq/)
+
+* [Overview of MQTT client tools](http://www.hivemq.com/overview-of-mqtt-client-tools/)
+
+* [The missing piece between MQTT and a SQL database in a M2M landscape](http://www.hivemq.com/mqtt-sql-database/): See how to use SQL databases with MQTT and learn why wildcard subscribers are evil.
