@@ -15,11 +15,12 @@ Some of the links are placeholders for information we want to include, but that 
 > Currently the content is in transition from the "old" mqtt.org site - find a full list of pages on the **Pages** tab up top.
 
 ## Introduction
-*  [Basic Concepts](Basic Concepts)
-*  [Design Principles](Design Principles)
-*  [Example Uses](Example Uses)
-*  [Terminology and acronyms](acronyms)
-*  [Background and History](history)
+* blah 
+* [Basic Concepts](wiki/Basic Concepts)
+* [Design Principles](Design Principles)
+* [Example Uses](Example Uses)
+* [Terminology and acronyms](acronyms)
+* [Background and History](history)
 
 ## The MQTT Protocol
 *  [MQTT Protocol](MQTT Protocol)
