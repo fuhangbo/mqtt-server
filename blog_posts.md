@@ -24,3 +24,5 @@ If you came across an interesting blog post please add it here.
 *  [MQTT and WebSocket thermometer](http://chemicaloliver.net/internet/mqtt-and-websocket-thermometer-using-the-html5-meter-tag/)
 
 *  [Trigger](http://justinribeiro.com/chronicle/2012/07/22/the-internet-of-things-trigger-an-led-on-an-arduino-with-mqtt-mosquitto-ratchet-and-html5-websocket-api/) an LED on an Arduino with MQTT, Mosquitto, Ratchet, and HTML5 WebSocket API
+
+*  [MQTT and .Net Micro Framework] (http://www.embedded101.com/Blogs/PaoloPatierno/tabid/106/entryid/332/MQTT-and-Net-Micro-Framework-with-Netduino-Plus-board-a-simple-alarm-system.aspx) with Netduino Plus board : a simple alarm system !
