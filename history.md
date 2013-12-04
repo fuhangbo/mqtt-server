@@ -1,5 +1,3 @@
-# Background and History
-
 MQTT was created by [Andy Stanford-Clark](http://en.wikipedia.org/wiki/Andy_Stanford-Clark) of IBM, and Arlen Nipper (then of Arcom Systems, later CTO of Eurotech).
 
 FIXME more detail required :-)
