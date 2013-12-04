@@ -18,7 +18,7 @@ Some of the links are placeholders for information we want to include, but that 
 * [Basic Concepts](wiki/Basic Concepts)
 * [Design Principles](wiki/Design Principles)
 * [Example Uses](wiki/Example Uses)
-* [Terminology and acronyms](wiki/acronyms)
+* [Terminology and acronyms](wiki/Terms-and-acronyms)
 * [Background and History](wiki/history)
 
 ## The MQTT Protocol
