@@ -1,4 +1,4 @@
-## Design Principles and Assumptions
+### Principles and Assumptions
 
 MQTT was designed for low-bandwidth, high latency networks in the late 1990s/early 2000s. As a result, the designers made a number of key choices which influenced the way it "looks and feels".
 
