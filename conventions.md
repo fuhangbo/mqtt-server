@@ -1,5 +1,3 @@
-#  Conventions 
-
 This page exists to document things that are not part of the formal specification but which are widely used or agreed upon.
 
 ## $SYS
