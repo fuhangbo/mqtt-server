@@ -12,7 +12,7 @@ If you have a good example or know of some online information which is not repre
 
 Some of the links are placeholders for information we want to include, but that no-one has added yet. It's a constant work-in-progress - together we can make it better!
 
-> Currently the content is in transition from the "old" mqtt.org site - find a full list of pages on the [**Pages**](_pages) tab up top.
+> Currently the content is in transition from the "old" mqtt.org site - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) tab up top.
 
 ## Introduction
 * [Basic Concepts](Basic Concepts)
