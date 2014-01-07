@@ -16,7 +16,7 @@ As links are moved to the wider wiki please shuffle them to the DONE STUFF secti
 ## Larger website TODO items:
 
 * redesign site to use e.g. Bootstrap or some other mobile-first/responsive framework - looking dated and doesn’t work well on mobiles and tablets.
-    * in progress https://github.com/mqttorg/mqttorg.github.io
+    * in progress https://github.com/mqtt/mqtt.github.io
 * move the FAQ to the wiki completely
 * improve the feature matrix for clients and brokers on the wiki
     * in progress
