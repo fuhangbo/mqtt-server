@@ -710,8 +710,9 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * [https://github.com/OpenSensorsIO/azondi][277]
 
-* [mqtt-zabbix](https://github.com/kylegordon/mqtt-zabbix)
+* https://github.com/kylegordon/mqtt-zabbix
 
+* http://ecafe.org/blog/2014/01/06/qos1-added-to-the-arduino-mqtt-library.html
 
 **Presentations**
 
@@ -747,7 +748,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://node-red.github.io][291]
 * [http://www.youtube.com/watch?v=OrgxLl9AaHI][292] - node-red hangout
 
-* [http://blog.thestateofme.com/2013/12/30/pi-lite-with-node-red/] - pi lite
+* http://blog.thestateofme.com/2013/12/30/pi-lite-with-node-red/
 
 **MQTT-SN**
 
