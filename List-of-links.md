@@ -714,6 +714,36 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * http://ecafe.org/blog/2014/01/06/qos1-added-to-the-arduino-mqtt-library.html
 
+* http://jaxenter.de/news/MQTT-Broker-Mosca-moquette-in-neuen-Versionen-verfuegbar-170154
+
+* https://www.youtube.com/watch?v=iFEQqlXn4ZM&feature=youtu.be&a
+
+* https://www.dropbox.com/s/lfjuih5v3928cg6/JLR_IBM_Intel_GENIVI_Tizen_demo.mov
+
+* http://mcollina.github.io/mosca/
+
+* https://gist.github.com/voluntas/8238751 - useful getting started guide (in Japanese)
+
+* http://www.housahedron.co.uk/2013/12/27/mqtt-and-the-language-of-the-internet-of-things/
+
+* https://github.com/kylegordon/mqtt-gpio-trigger
+
+* https://github.com/elyobelyob/mqtt
+
+* https://github.com/ibm-messagesight/
+
+* https://github.com/poppe34/MQTT
+
+* https://github.com/endian-labs/dht11km-mqtt-driver
+
+* https://github.com/shimonxin/light-mqtt-server - Android MQTT server
+
+* https://github.com/gatement/mqtt_cli
+* https://github.com/squaremo/erlmqtt
+
+
+
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
@@ -721,7 +751,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.slideshare.net/ultrasonic/android-push-server-mqtt][279]
 * [http://www.slideshare.net/tdotrob/20130226-how-personal-is-your-cloud][280]
 * [http://www.slideshare.net/dobermai/bringing-m2m-to-the-web-with-paho-connecting-java-devices-and-online-dashboards-with-mqtt][281]
-
+* http://www.slideshare.net/nivertech/zvi-mqtts-foreuc2013
 
 
 **“x” vs MQTT**
@@ -762,6 +792,9 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.erlang-factory.com/conference/ErlangUserConference2013/speakers/ZviAvraham][300]
 * [https://www.erlang-factory.com/upload/presentations/807/ZviMQTTS_for_EUC2013.pdf][301]
 * https://github.com/TomoakiYAMAGUCHI/MQTT-S-Gateway
+* http://www.housahedron.co.uk/2014/01/06/our-mqtt-sn-implementation-so-far/
+* https://github.com/dgomes/MELGA
+* https://github.com/alsm/gnatt
 
 
 
