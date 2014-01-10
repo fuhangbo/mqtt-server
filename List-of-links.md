@@ -4,16 +4,14 @@ Find below many links to projects, blog posts, news stories, examples, videos, n
 
 ### PLEASE HELP TO ORGANISE THIS CONTENT
 
-## Why am I here?
-
-This document represents basically a dump of all MQTT-related content that has cropped up online over the past couple of years. Add your own links and content to it, or help to organise the existing stuff, and migrate it to a more appropriate section of the wiki (or propose alternative useful locations, either in comments or in the body). This means creating pages and sections that make sense.
+This document represents basically a dump of all MQTT-related content that has cropped up online over the past couple of years. Add your own links and content to it, or help to organise the existing stuff, and migrate it to a more appropriate section of the wiki. This means creating pages and sections that make sense.
 
 Repeat: **PLEASE HELP TO ORGANISE THIS CONTENT!!**
 
-As links are moved to the wider wiki please shuffle them to the DONE STUFF section at the end
+As links are moved to the wider wiki, shuffle them to the DONE STUFF section at the end
 
 
-## Larger website TODO items:
+## TODO items:
 
 * redesign site to use e.g. Bootstrap or some other mobile-first/responsive framework - looking dated and doesn’t work well on mobiles and tablets.
     * in progress https://github.com/mqtt/mqtt.github.io
@@ -23,7 +21,7 @@ As links are moved to the wider wiki please shuffle them to the DONE STUFF secti
 
 
 
-**Random stuff follows...**
+**Random stuff and linkage follows...**
 
 * http://blog.hekkers.net/2012/09/16/publishing-smart-meter-p1-data/
 * https://github.com/jsiei97/FunTechHouse_MQTT2WebServer_Sensor
@@ -744,6 +742,11 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * https://github.com/xively/clj-mqtt
 * https://github.com/OpenSensorsIO/mqtt-broker
 
+* http://en.z-wave.me/content/re-binding-and-callback-sample-using-mqtt
+
+* http://www.freetronics.com/blogs/news/11427385-build-interactive-and-internet-controlled-stair-lights-with-arduino#.UtA6v2R_uxE
+* http://www.instructables.com/id/Internet-enabled-interactive-stair-lights/
+
 
 
 **Presentations**
@@ -762,7 +765,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.slideshare.net/RealTimeInnovations/comparison-of-mqtt-and-dds-as-m2m-protocols-for-the-internet-of-things][282]
 * [http://electronicdesign.com/embedded/understanding-protocols-behind-internet-things][283]
 * [http://www.layer7tech.com/blogs/index.php/ending-the-iot-protocol-wars/][284]
-
+* http://www.sine-wave.com/blog/machine-to-machine-connectivity#.UtA6sWR_uxE
 
 
 
@@ -835,6 +838,11 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [https://github.com/Tingenek/tcl-mqtt][315]
 
 * [http://jpmens.net/2013/08/14/latitude-longitude-mqttitude/][316]
+
+
+
+***
+
 
 [1]: %5Cl%20%22id.pv16kf464tpc%22
 [2]: https://github.com/m2mIO/mqtt-websocket-bridge
