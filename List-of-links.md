@@ -741,6 +741,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * https://github.com/gatement/mqtt_cli
 * https://github.com/squaremo/erlmqtt
 
+* https://github.com/OpenSensorsIO/mqtt-broker
 
 
 
