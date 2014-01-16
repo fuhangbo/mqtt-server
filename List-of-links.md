@@ -753,7 +753,11 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://github.com/ckrey/MQTT-Client-Framework (fork of 2lemetry client)
 
+* http://mobilebit.wordpress.com/2014/01/10/cesv2v/
 
+* http://blog.bearstech.com/2014/01/high-available-mqtt-service.html
+
+* http://jpmens.net/2014/01/14/a-story-of-home-automation/ - openHAB and MQTT
 
 **Presentations**
 
@@ -790,6 +794,11 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.youtube.com/watch?v=OrgxLl9AaHI][292] - node-red hangout
 
 * http://blog.thestateofme.com/2013/12/30/pi-lite-with-node-red/
+
+* https://www.ibm.com/developerworks/community/blogs/B-Fool/entry/weather_prediction_with_node_red_forecast_io_and_a_raspberry_pi?lang=en
+
+* http://c-mobberley.com/wordpress/index.php/2013/10/03/raspberry-pi-hosting-node-red-take-the-crap-out-of-developing-automation-the-internet-of-things-iot/
+
 
 **MQTT-SN**
 
