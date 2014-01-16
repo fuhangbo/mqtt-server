@@ -747,6 +747,12 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://www.freetronics.com/blogs/news/11427385-build-interactive-and-internet-controlled-stair-lights-with-arduino#.UtA6v2R_uxE
 * http://www.instructables.com/id/Internet-enabled-interactive-stair-lights/
 
+* https://github.com/openhab/openhab/wiki/MQTT-Binding
+
+* http://www.iotworld.com/author.asp?section_id=3224&doc_id=562380
+
+* https://github.com/ckrey/MQTT-Client-Framework (fork of 2lemetry client)
+
 
 
 **Presentations**
