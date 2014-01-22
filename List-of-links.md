@@ -759,6 +759,22 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * http://jpmens.net/2014/01/14/a-story-of-home-automation/ - openHAB and MQTT
 
+* https://gist.github.com/walterhiggins/ab049f18cd23323bc2a3 - using Minecraft and MQTT to trigger real-world events
+
+* http://www.raspberrypi.org/phpBB3/viewtopic.php?t=66631&p=488285
+
+* https://github.com/OpenPicus/lib_mqtt
+
+* https://github.com/kaalabs/kaaNet-Server
+
+* https://github.com/wssand44/MQTT - iOS app with moquette server
+
+* https://github.com/xoseperez/mqtt2cloud
+
+* https://github.com/jpmens/mqtt-launcher
+
+* https://github.com/aprettz86/mosq_mysql_auth
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
