@@ -775,6 +775,27 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://github.com/aprettz86/mosq_mysql_auth
 
+* http://walterhiggins.net/blog/Arduino-Minecraft
+
+* https://github.com/magicmonkey/lifxjs (lifx lightbulb node client, with MQTT demo)
+
+* http://modelbasedtesting.co.uk/?p=69 Paho embedded C client
+
+* http://pic.dhe.ibm.com/infocenter/wmqv7/v7r5/index.jsp?topic=%2Fcom.ibm.mm.tc.doc%2Ftc60302_.htm latest IBM MQTT infocenter with guides on C, Java, Javascript
+
+* http://oriolrius.cat/blog/2013/09/25/server-send-push-notifications-to-client-browser-without-polling/
+
+* https://npmjs.org/package/mqtt-ws
+
+* http://peteryxu.wordpress.com/2014/01/25/publishing-tizen-ivi-canbus-data-to-the-cloud/
+
+* http://false.ekta.is/2011/06/mqtt-dissector-decoder-for-wireshark/
+* https://www.ibm.com/developerworks/community/blogs/messaging/entry/analyzing_websphere_mq_telemetry_or_mqtt_traffic_using_wireshark12
+
+* https://github.com/cresprit/mqttbot
+
+* https://github.com/mcollina/mows
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
@@ -814,6 +835,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * https://www.ibm.com/developerworks/community/blogs/B-Fool/entry/weather_prediction_with_node_red_forecast_io_and_a_raspberry_pi?lang=en
 
 * http://c-mobberley.com/wordpress/index.php/2013/10/03/raspberry-pi-hosting-node-red-take-the-crap-out-of-developing-automation-the-internet-of-things-iot/
+
+* http://learn.adafruit.com/raspberry-pi-hosting-node-red/what-is-node-red
 
 
 **MQTT-SN**
