@@ -31,6 +31,8 @@ A number of tools make it simple to publish or subscribe on MQTT topics. Some ar
 
 *  [ SimpleMessage](http://www.banym.de/m2m/first-very-basic-mqtt-mac-app ) - A basic OS X desktop client based on the Paho C client.
 
+*  [ TT3](https://github.com/francoisvdm/TT3) - A full featured windows MQTT client application using Paho libs.  Several additional features like performance testing and alerts.
+
 ### Desktop notification tools
 
 
