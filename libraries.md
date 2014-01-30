@@ -1,6 +1,10 @@
-##  Libraries 
-
-`<note>`Note: although there are a range of options available for developers interested in MQTT, not all of the client APIs listed below are current. Some are at an early or experimental stage of development, whilst others are stable and mature. Additionally, some may not provide full support for all of the features of the latest MQTT specification – for example, some may only support QoS 0, not include authentication, etc.`</note>`
+```
+Note: although there are a range of options available for developers interested in MQTT,
+not all of the client APIs listed below are current. Some are at an early or experimental stage of
+development, whilst others are stable and mature. Additionally, some may not provide full support 
+for all of the features of the latest MQTT specification – for example, some may only support QoS 0, 
+not include authentication, etc.
+```
 
 Check with the provider for the current status of your preferred language implementation; and remember to respect the licenses that different implementations are published under.
 
