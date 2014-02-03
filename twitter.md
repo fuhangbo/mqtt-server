@@ -14,6 +14,7 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [ppatierno](http://twitter.com/ppatierno) - Paolo Patierno (M2Mqtt)
 *  [kellogh](http://twitter.com/kellogh) - Tim Kellogg
 *  [joerg_wende](http://twitter.com/joerg_wende) - Joerg Wende
+*  [francoisvdm](https://twitter.com/francoisvdmerwe) - Francois van der Merwe
 
 ## Projects and sites
 
