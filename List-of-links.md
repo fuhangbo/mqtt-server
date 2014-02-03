@@ -796,6 +796,14 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://github.com/mcollina/mows
 
+* http://www.logicio.com/HTML/mqtt_mqtt_communication.htm
+
+* https://github.com/hivemq/hivemq-mqtt-web-client
+
+* https://index.docker.io/u/lapax/mosquitto-lite/
+
+* http://m2m.demos.ibm.com/mqttclient/
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
@@ -804,6 +812,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.slideshare.net/tdotrob/20130226-how-personal-is-your-cloud][280]
 * [http://www.slideshare.net/dobermai/bringing-m2m-to-the-web-with-paho-connecting-java-devices-and-online-dashboards-with-mqtt][281]
 * http://www.slideshare.net/nivertech/zvi-mqtts-foreuc2013
+* http://www.slideshare.net/michaeljohnkoster/mqtt-rest-bridge
+* http://www.slideshare.net/pizak/federated-identity-for-iot-with-oauth2
 
 
 **“x” vs MQTT**
