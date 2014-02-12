@@ -6,4 +6,5 @@ Some useful terms and definitions associated with MQTT
 *  M2M IWG - [Machine-to-Machine Industry Working Group at Eclipse](mqtt_at_eclipse)
 *  IoT - [Internet of Things](http://en.wikipedia.org/wiki/Internet_of_things)
 *  Paho - [Eclipse Paho](mqtt_at_eclipse) messaging project
+*  Broker - a [broker](http://en.wikipedia.org/wiki/Message_broker) is a server that routes published messages to subscribers
 *  bridge - a connection between two MQTT brokers
