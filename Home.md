@@ -24,6 +24,7 @@ Some of the links are placeholders for information we want to include, but that 
 ## The MQTT Protocol
 *  [MQTT Protocol](MQTT Protocol)
 *  [Conventions](Conventions) (generally agreed, but not formalised)
+*  [URI Scheme](URI Scheme)
 
 ## Developing Applications
 *  [Setup and testing](Setup and testing) with [brokers](brokers)
