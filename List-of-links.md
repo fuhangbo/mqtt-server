@@ -804,6 +804,18 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * http://m2m.demos.ibm.com/mqttclient/
 
+* https://github.com/bluk/mqttlibrary
+
+* https://github.com/justinribeiro/glass-gdk-timer-mqtt
+
+* http://www.freetronics.com/blogs/news/12130777-using-mqtt-to-connect-arduino-to-the-internet-of-things#.UvjQIWR_uxE
+
+* https://github.com/clojurewerkz/triennium
+
+* https://www.youtube.com/watch?v=JMQ4qWwe6P8
+
+* https://gist.github.com/andypiper/8936220
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
