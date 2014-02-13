@@ -816,6 +816,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://gist.github.com/andypiper/8936220
 
+* https://github.com/sumnerboy12/mqtt2xbmc
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
