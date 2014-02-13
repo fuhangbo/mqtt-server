@@ -21,7 +21,7 @@ The second section of the URI is the username to be put into the CONNECT packet,
 Optionally a password may be given in the URI. This is also passed into the CONNECT packet. A colon separates the username and password. If the username is an empty string, then the password should still be sent.
 
 ### Host and Domain
-Other than the scheme, this the only required component of a MQTT URI. This is the DNS name of the MQTT broker to connect to.
+Other than the scheme, this the only required component of a MQTT URI. This is the DNS name or IP address of the MQTT broker to connect to.
 
 ### Port
 The TCP port of the MQTT broker to connect to. If no port is given, then the default port number, 1883, is used for the 'mqtt' scheme and port 8883 is used by default for the 'mqtts' scheme.
