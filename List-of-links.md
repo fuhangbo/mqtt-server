@@ -816,7 +816,15 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://gist.github.com/andypiper/8936220
 
+* https://github.com/yuuna/fluent-plugin-mqtt
+
 * https://github.com/sumnerboy12/mqtt2xbmc
+
+* http://www.ubiquitous.co.jp/news/?p=7142 (Japanese news item on "dalchymia" platform using MQTT)
+
+* http://blog.mongohq.com/building-mongodb-into-your-internet-of-things-a-tutorial/ MongoDB and MQTT
+
+* http://www.redbooks.ibm.com/redpieces/abstracts/sg248183.html?Open
 
 **Presentations**
 
