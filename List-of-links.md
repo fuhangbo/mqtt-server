@@ -826,6 +826,12 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * http://www.redbooks.ibm.com/redpieces/abstracts/sg248183.html?Open
 
+* https://gist.github.com/danielfaulknor/55e7fef114e13d0e08cc
+* https://github.com/matbor/twitter2mqtt
+* http://1248.io/geras.html
+* https://github.com/jpmens/mqttwarn/
+* https://github.com/matbor/mqtt2livechart
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
@@ -836,6 +842,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://www.slideshare.net/nivertech/zvi-mqtts-foreuc2013
 * http://www.slideshare.net/michaeljohnkoster/mqtt-rest-bridge
 * http://www.slideshare.net/pizak/federated-identity-for-iot-with-oauth2
+* http://www.slideshare.net/JoeSpeed/connecting-cars-with-mqtt-and-ibm-message-sight-feb-6-2014-joe-speed
 
 
 **“x” vs MQTT**
