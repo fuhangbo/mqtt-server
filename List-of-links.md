@@ -832,6 +832,9 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * https://github.com/jpmens/mqttwarn/
 * https://github.com/matbor/mqtt2livechart
 
+* https://rndm.io/go-and-mqtt/
+* https://github.com/alsm/gochat-mqtt
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
