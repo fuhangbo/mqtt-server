@@ -17,4 +17,6 @@ MQTT has been incorporated into various runtimes and frameworks via modules or p
 
 *  [Wireshark](http://false.ekta.is/2011/06/mqtt-dissector-decoder-for-wireshark/) - a partial MQTT dissector/decoder for Wireshark
 
+*  [Wireshark](https://github.com/Johann-Angeli/wireshark-plugin-mqtt) - a full MQTT dissector/decoder for Wireshark
+
 *  [zmqtt](https///code.google.com/p/zmqtt/) – an MQTT module for Zotonic, an Erlang framework
