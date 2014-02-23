@@ -856,7 +856,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * [http://www.layer7tech.com/blogs/index.php/ending-the-iot-protocol-wars/][284]
 * http://www.sine-wave.com/blog/machine-to-machine-connectivity#.UtA6sWR_uxE
 
-
+* http://www.hivemq.com/hivemq-mqtt-websockets-support-message-log-plugin-2-min/
+* http://blog.bwired.nl/?p=1049
 
 **OASIS TC**
 * [https://lists.oasis-open.org/archives/mqtt-comment/][285]
