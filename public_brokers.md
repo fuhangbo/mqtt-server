@@ -4,10 +4,10 @@ Note: none of these test brokers carry any guarantee of service. Be sensible whe
 
 field | value
 ------|------
-_address_ | `m2m.eclipse.org`
+_address_ | `iot.eclipse.org`
 _port_ | `1883`, `80` (WebSockets)
 _type_ | mosquitto
-_info_ | [web page](http://m2m.eclipse.org/sandbox.html), [Xively statistics](https://xively.com/feeds/59871), [topics and HTTP bridge](http://eclipse.mqttbridge.com)
+_info_ | [web page](http://iot.eclipse.org/sandbox.html), [Xively statistics](https://xively.com/feeds/59871), [topics and HTTP bridge](http://eclipse.mqttbridge.com)
 
 ***
 
