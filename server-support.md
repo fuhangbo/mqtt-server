@@ -17,6 +17,7 @@ Server                                                                          
 [moquette](http://code.google.com/p/moquette-mqtt/)                               | ✔     | ✔     | ✘     | ?    | ?                         | ?                        | ?   | ?                                    | ✘       | ✘          | ✘             | 
 [mosca](mosca)                                                                    | ✔     | ✔     | ✘     | ✔    | ?                         | ?                        | ?   | ?                                    | ✘       | ✔          | ✘             | 
 [IBM MessageSight](http://www-03.ibm.com/software/products/en/messagesight/)      | ✔     | ✔     | ✔     | ✔    | ✘                         | ✔                        | ✔   | ✔                                    | §       | ✔          | ✘             |
+[2lemetry](http://2lemetry.com/platform/)      | ✔     | ✔     | ✔     | ✔    | ✔                         | §                        | ✔   | ✔                                    | ✔       | ✔          | ✘             |
 
 Key: ✔ supported ✘ not supported ? unknown § see limitations
 # Limitations
@@ -25,6 +26,8 @@ Key: ✔ supported ✘ not supported ? unknown § see limitations
 *  Both MQTT.js and my-Channels Nirvana Messaging will accept connections with username and password supplied, but do not actually authenticate the connection
 
 * IBM MessageSight supports a High-Availability mode which provides the redundancy advantage of a cluster, but does not support any sort of load balancing for MQTT.
+
+* 2lemetry uses domains, where the first topic segment is the domain name. The `$SYS` topic space is under the domain (i.e. `com.example/$SYS/#`)
 
 Potentially should add columns to track: LWT; additional protocols (WMQ, AMQP, MQTTs etc)
 
