@@ -2,7 +2,7 @@ The MQTT topic specification is [in an Appendix of the spec](http://public.dhe.i
 
 Roger Light noticed that the spec was not totally clear on the format of topic strings/hierarchies and what the behaviour should be with a trailing slash character.
 
-Nick O'Leary clarified [via the MQTT Google Group](https///groups.google.com/d/msg/mqtt/tQxZjssBDGw/m1CQYZVyVmoJ).
+Nick O'Leary clarified [via the MQTT Google Group](https://groups.google.com/d/msg/mqtt/tQxZjssBDGw/m1CQYZVyVmoJ).
 
    * a topic ending in a slash is considered equivalent to the same topic without the slash, which enables the wildcards to behave like this:
      * a subscription to A/# is a subscription to the topic A and all topics beneath A
