@@ -108,6 +108,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [M2MQTT](https///m2mqtt.codeplex.com/)
 
+*  [KittyHawkMQ] (http://www.kittyhawkmq.com/)
+
 ####Objective-C
 
 *  [mqttIO-objC](https///github.com/m2mIO/mqttIO-objC)
