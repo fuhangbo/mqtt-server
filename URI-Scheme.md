@@ -5,7 +5,7 @@ URIs are useful to provide serval pieces of information in a single compact stri
 
 The format is like this:
 
-    mqtt://[username][:password]@host.domain[:port]
+    mqtt[s]://[username][:password]@host.domain[:port]
 
 A typical use for this is to provide the details of a MQTT broker in an environment variable. The suggested name for this variable is 'MQTT_BROKER'.
 
