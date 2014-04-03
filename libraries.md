@@ -152,6 +152,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [em-mqtt](https///rubygems.org/gems/em-mqtt)
 
+*  [mosquitto](https://github.com/xively/mosquitto)
+
 ####Tcl
 
 *  [tcl-mqtt](https///github.com/Tingenek/tcl-mqtt)
