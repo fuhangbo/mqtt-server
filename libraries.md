@@ -44,6 +44,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Machine Head](http://clojuremqtt.info)
 
+*  [Clojure MQTT Codec for Netty](https://github.com/xively/clj-mqtt/)
+
 ####Dart
 
 *  [mqtt.dart](http://pub.dartlang.org/packages/mqtt)
