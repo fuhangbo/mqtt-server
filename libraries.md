@@ -10,15 +10,19 @@ Check with the provider for the current status of your preferred language implem
 
 ####Device-Specific
 
-*  [Arduino](https///github.com/knolleary/pubsubclient) ([more information](http://knolleary.net/arduino-client-for-mqtt/))
+*  [Arduino](https://github.com/knolleary/pubsubclient) ([more information](http://knolleary.net/arduino-client-for-mqtt/))
 
-*  [mbed](https///github.com/yilun/MQTT-client-on-mbed) ([more information](http://ceit.uq.edu.au/content/mqttclient-mbed-version-20))
+*  [mbed](https://github.com/yilun/MQTT-client-on-mbed) ([more information](http://ceit.uq.edu.au/content/mqttclient-mbed-version-20))
 
 *  [mbed (simple port of the Arduino pubsubclient)](http://mbed.org/users/jwende/code/MQTT/)
 
+*  [mbed (native implementation)](http://mbed.org/users/Nim65s/code/niMQTT/)
+
+*  [mbed (Paho Embedded C port)](http://mbed.org/users/icraggs/code/MQTTClient/)
+
 *  [Nanode](http://github.com/njh/NanodeMQTT/)
 
-*  [Netduino](https///github.com/danielan/NetduinoMQTT)
+*  [Netduino](https://github.com/danielan/NetduinoMQTT)
 
 *  [M2MQTT (works with .Net Micro Framework)](https///m2mqtt.codeplex.com/)
 
@@ -26,7 +30,7 @@ Check with the provider for the current status of your preferred language implem
 
 ####Actionscript
 
-*  [as3MQTT](https///github.com/yangboz/as3MQTT)
+*  [as3MQTT](https://github.com/yangboz/as3MQTT)
 
 ####C
 
@@ -34,7 +38,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [libmosquitto](http://mosquitto.org)
 
-*  [libemqtt](https///github.com/menudoproblema/libemqtt) - an embedded C client
+*  [libemqtt](https://github.com/menudoproblema/libemqtt) - an embedded C client
 
 ####C++
 
@@ -56,7 +60,7 @@ Check with the provider for the current status of your preferred language implem
 
 ####Erlang
 
-*  [erlmqtt](https///github.com/squaremo/erlmqtt)
+*  [erlmqtt](https://github.com/squaremo/erlmqtt)
 
 *  [mqtt4erl](http://code.google.com/p/mqtt4erl/)
 
@@ -72,9 +76,9 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Xenqtt](http://xenqtt.sf.net) Includes a client library, mock broker for unit/integration testing, and applications to support enterprise needs like using a cluster of servers as a single client, an HTTP gateway, etc.
 
-*  [MeQanTT](https///github.com/AlbinTheander/MeQanTT)
+*  [MeQanTT](https://github.com/AlbinTheander/MeQanTT)
 
-*  [Fusesource mqtt-client](https///github.com/fusesource/mqtt-client)
+*  [Fusesource mqtt-client](https://github.com/fusesource/mqtt-client)
 
 *  [moquette](http://code.google.com/p/moquette-mqtt/)
 
@@ -86,17 +90,17 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Eclipse Paho HTML5 JavaScript over WebSocket.](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.javascript.git/)
 
-*  [mqtt.js](https///github.com/adamvr/MQTT.js)
+*  [mqtt.js](https://github.com/adamvr/MQTT.js)
 
-*  [node_mqtt_client](https///github.com/yilun/node_mqtt_client) ([more information](http://ceit.uq.edu.au/content/simple-mqtt-cient-nodejs))
+*  [node_mqtt_client](https://github.com/yilun/node_mqtt_client) ([more information](http://ceit.uq.edu.au/content/simple-mqtt-cient-nodejs))
 
 *  [IBM-provided PhoneGap / Apache Cordova MQTT plug-in for Android](http://www-01.ibm.com/support/docview.wss?rs=171&uid=swg24033580&loc=en_US&cs=utf-8&lang=en) - JavaScript API is identical to Eclipse Paho HTML5 JavaScript
 
-*  [Ascoltatori](https///github.com/mcollina/ascoltatori) - a node.js pub/sub library that allows access to Redis, AMQP, MQTT and ZeroMQ with the same API.
+*  [Ascoltatori](https://github.com/mcollina/ascoltatori) - a node.js pub/sub library that allows access to Redis, AMQP, MQTT and ZeroMQ with the same API.
 
 ####LotusScript
 
-*  [MQTT From LotusScript](https///tingenek.wordpress.com/2011/11/30/mqtt-with-lotus-notes/)
+*  [MQTT From LotusScript](https://tingenek.wordpress.com/2011/11/30/mqtt-with-lotus-notes/)
 
 ####Lua
 
@@ -106,7 +110,7 @@ Check with the provider for the current status of your preferred language implem
 
 *  [MqttDotNet](http://sourceforge.net/projects/mqttdotnet/)
 
-*  [nMQTT](https///github.com/markallanson/nmqtt)
+*  [nMQTT](https://github.com/markallanson/nmqtt)
 
 *  [M2MQTT](https///m2mqtt.codeplex.com/)
 
@@ -114,19 +118,19 @@ Check with the provider for the current status of your preferred language implem
 
 ####Objective-C
 
-*  [mqttIO-objC](https///github.com/m2mIO/mqttIO-objC)
+*  [mqttIO-objC](https://github.com/m2mIO/mqttIO-objC)
 
-*  [libmosquitto](https///mosquitto.org) - via wrappers ([example](https///github.com/njh/marquette))
+*  [libmosquitto](https://mosquitto.org) - via wrappers ([example](https///github.com/njh/marquette))
 
-*  [MQTTKit](https///github.com/jmesnil/MQTTKit) ([sample app](https///github.com/jmesnil/MQTTExample))
+*  [MQTTKit](https://github.com/jmesnil/MQTTKit) ([sample app](https///github.com/jmesnil/MQTTExample))
 
 *  ["MA9B" zip of 1/2 dozen mobile clients source code including Objective-C](http://www-933.ibm.com/support/fixcentral/swg/selectFix?product=ibm%2FWebSphere%2FWebSphere+MQ&fixids=1.0.0.1-WS-MQCP-MA9B&source=dbluesearch&function=fixId&parent=ibm/WebSphere)
 
 ####Perl
 
-*  [net-mqtt-perl](https///github.com/beanz/net-mqtt-perl)
+*  [net-mqtt-perl](https://github.com/beanz/net-mqtt-perl)
 
-*  [anyevent-mqtt-perl](https///github.com/beanz/anyevent-mqtt-perl)
+*  [anyevent-mqtt-perl](https://github.com/beanz/anyevent-mqtt-perl)
 
 *  [WebSphere-MQTT-Client](http://search.cpan.org/dist/WebSphere-MQTT-Client/)
 
@@ -134,28 +138,28 @@ Check with the provider for the current status of your preferred language implem
 
 *  [phpMQTT](http://github.com/bluerhinos/phpMQTT)
 
-*  [Mosquitto-PHP](https///github.com/mgdm/Mosquitto-PHP)
+*  [Mosquitto-PHP](https://github.com/mgdm/Mosquitto-PHP)
 
 ####Python
 
 *  [Eclipse Paho Python](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.python.git/) - originally the mosquitto Python client
 
-*  [nyamuk](https///github.com/iwanbk/nyamuk)
+*  [nyamuk](https://github.com/iwanbk/nyamuk)
 
-*  [MQTT for twisted python](https///github.com/adamvr/MQTT-For-Twisted-Python)
+*  [MQTT for twisted python](https://github.com/adamvr/MQTT-For-Twisted-Python)
 
 ####REXX
 
-*  [REXX MQTT](https///github.com/DougieLawson/REXX_MQTT)
+*  [REXX MQTT](https://github.com/DougieLawson/REXX_MQTT)
 
 ####Ruby
 
-*  [ruby-mqtt](https///github.com/njh/ruby-mqtt)
+*  [ruby-mqtt](https://github.com/njh/ruby-mqtt)
 
-*  [em-mqtt](https///rubygems.org/gems/em-mqtt)
+*  [em-mqtt](https://rubygems.org/gems/em-mqtt)
 
 *  [mosquitto](https://github.com/xively/mosquitto)
 
 ####Tcl
 
-*  [tcl-mqtt](https///github.com/Tingenek/tcl-mqtt)
+*  [tcl-mqtt](https://github.com/Tingenek/tcl-mqtt)
