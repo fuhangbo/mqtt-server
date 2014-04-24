@@ -134,6 +134,8 @@ Check with the provider for the current status of your preferred language implem
 
 *  [WebSphere-MQTT-Client](http://search.cpan.org/dist/WebSphere-MQTT-Client/)
 
+*  Net::MQTT::Simple [cpan](https://metacpan.org/pod/Net::MQTT::Simple) [github](https://github.com/Juerd/Net-MQTT-Simple)
+
 ####PHP
 
 *  [phpMQTT](http://github.com/bluerhinos/phpMQTT)
