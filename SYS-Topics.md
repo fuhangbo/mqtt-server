@@ -14,10 +14,10 @@ Most of the topics and descriptions are copied and modified from: http://mosquit
 
 ## Required Topics
 
-* **$SYS/traffic/bytes/received**:
+* **$SYS/load/bytes/received**:
 The total number of bytes received since the broker started.
 
-* **$SYS/traffic/bytes/sent**:
+* **$SYS/load/bytes/sent**:
 The total number of bytes sent since the broker started.
 
 * **$SYS/clients/connected**:
