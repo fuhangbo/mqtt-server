@@ -107,4 +107,4 @@ The moving average of the number of socket connections opened to the broker over
 The timestamp at which this particular build of the broker was made. Static.
 
 * **$SYS/clients/[client-id]/ip**:
-* **$SYS/clients/[client-id]/connectedtime:
+* **$SYS/clients/[client-id]/connectedtime**:
