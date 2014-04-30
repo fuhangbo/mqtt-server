@@ -14,10 +14,10 @@ Most of the topics and descriptions are copied from: http://mosquitto.org/man/mo
 
 ## Required Topics
 
-* *$SYS/broker/bytes/received*:
+* **$SYS/broker/bytes/received**:
 The total number of bytes received since the broker started.
 
-* *$SYS/broker/bytes/sent*:
+* **$SYS/broker/bytes/sent**:
 The total number of bytes sent since the broker started.
 
 * **$SYS/broker/clients/connected**:
