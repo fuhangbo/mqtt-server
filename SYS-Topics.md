@@ -60,7 +60,7 @@ The total number of retained messages active on the broker.
 The total number of subscriptions active on the broker.
 
 * **$SYS/broker/time**:
-The current time on the server. Static.
+The current time on the server.
 
 * **$SYS/broker/uptime**:
 The amount of time in seconds the broker has been online.
