@@ -70,7 +70,7 @@ The version of the broker. Static.
 
 ## Optional Topics:
 
-* *$SYS/broker/changeset*:
+* **$SYS/broker/changeset**:
 The repository changeset (revision) associated with this build. Static.
 
 * **$SYS/broker/bridge/#**:
