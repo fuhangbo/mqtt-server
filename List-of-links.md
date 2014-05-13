@@ -787,6 +787,122 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://npmjs.org/package/mqtt-ws
 
+* http://www.eclipse.org/community/eclipse_newsletter/2014/february/article2.php
+
+* https://github.com/nivertech/mqtt_tools
+
+* https://github.com/kartben/mosquitto-charm
+
+* http://blog-shaner.rhcloud.com/the-impact-of-ioe-on-nosql/
+
+* http://www.element14.com/community/community/raspberry-pi/raspberrypi_projects/blog/2014/04/30/rapiro-turn-the-rapiro-into-an-iot-device
+
+* http://www.slideshare.net/kartben/building-the-internet-of-things-with-eclipse-io-t-iot-be-meetup
+
+* https://www.youtube.com/watch?v=zlmVETaKDeU
+
+* http://eclipse.org/org/press-release/20140407_mqtt_test_day.php
+
+* http://www.iotworldview.com/#!Exclusive-interview-with-Diana-Kupfer-Editor-SS-Media-Group/c1nni/A403D44C-9FCB-408E-9EB6-8EC813064DB4
+
+* http://www.slideshare.net/geekscape/iot-hands-onyownight?utm_source=slideshow&utm_medium=ssemail&utm_campaign=upload_digest
+
+* http://www.embedded101.com/Blogs/PaoloPatierno/tabid/106/entryid/455/GnatMQ-in-the-Cloud-an-MQTT-broker-on-Microsoft-Azure.aspx
+
+* https://github.com/Anton04/RaspPy-StepperMotor-Driver
+
+* http://www.hivemq.com/plugin/delete-retained-messages-recursively-plugin/
+
+* http://www.thingscast.org/?p=42
+
+* http://www.heise.de/developer/artikel/MQTT-Protokoll-fuer-das-Internet-der-Dinge-2168152.html
+
+* http://www.ekito.fr/people/?p=4375
+
+* http://iot.eclipse.org/documents/2014-04-08-MQTT-Interop-test-day-report.html
+
+* https://www-304.ibm.com/connections/blogs/aim/entry/protocol_that_powers_the_internet_of_things?lang=en_gb
+
+* https://www.npmjs.org/package/td-mqtt-bridge
+
+* http://www.eetimes.com/document.asp?doc_id=1322294&_mc=RSS_EET_EDT
+
+* http://m2mqtt.wordpress.com/
+
+* https://www.ibm.com/developerworks/community/blogs/dougielawson/entry/raspberry_pi_python_nginx_and_gpio?lang=en
+
+* https://www.banym.de/mac/build-paho-mqtt-c-library-on-mac-os-x
+
+* http://www.jensd.de/wordpress/?p=1113
+
+* http://omatic.net/homepage/17/reliable-mqtt-connections?utm_content=buffer7d23b&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+
+* https://github.com/0x4139/MQTTChat
+
+* https://torlus.github.io/2014/05/08/mqtt-dht/
+
+* http://mqttdemochat.cloudapp.net/
+
+* http://store.openpicus.com/openpicus/prodotti.aspx?cat=21
+
+* http://dejanglozic.com/2014/05/06/rest-and-mqtt-yin-and-yang-of-micro-service-apis/
+
+* https://ianskerrett.wordpress.com/2014/04/08/moving-towards-interoperability-for-iot/
+
+* http://modelbasedtesting.co.uk/?p=94
+
+* http://www.slideshare.net/PeterREgli/mq-telemetry-transport
+
+* http://www.eclipse.org/forums/index.php?t=rview&goto=1326478#msg_1326478
+
+* http://modelbasedtesting.co.uk/?p=4
+
+* https://www.quora.com/MQTT/What-are-some-practical-uses-of-the-MQTT-protocol
+
+* https://github.com/jeffallen/mqtt
+
+* http://www.nofluffjuststuff.com/m/article/micro_messaging__java_mqtt__the_internet_of_things
+
+* https://github.com/esterren/mqtt-berry
+
+* https://github.com/sumnerboy12/mqtt-gpio-monitor
+
+* http://www.ekito.fr/people/?p=2969
+
+* https://wiki.eclipse.org/Development_Resources/HOWTO/Release_Reviews#Checklist
+
+* http://embedded-computing.com/21078-understanding-the-internet-of-things-protocols-dds-mqtt-amqp/
+
+* https://iotdb.org/
+
+* https://github.com/boriz/MQTT-SN-Arduino
+
+* http://www.programmableweb.com/news/mqtt-promotes-standards-interoperability-iot/2014/04/18
+
+* https://github.com/zeha/agi-mqtt
+
+* https://secure.marketwatch.com/story/elecsys-announces-new-redilink-products-2014-04-28
+
+* https://wiki.eclipse.org/Launch_Plan_for_IoT_Java
+
+* https://github.com/happiestcoder/mqtt-chat
+
+* http://alsolh.com/wp/?p=17
+
+* https://github.com/Torlus/mosquitto-twister
+
+* http://thethingbox.io/
+
+* http://www.slideshare.net/BryanBoyd/dynamic-apps-with-websockets-and-mqtt-ibm-impact-2014
+
+* https://github.com/dc-square/mqtt-with-paho-eclipsecon2013
+
+* http://www.slideshare.net/PeterREgli/mq-telemetry-transport
+
+* https://github.com/menudoproblema/Wireshark-MQTT
+
+* https://wiki.videolan.org/Documentation:Modules/mqtt/
+
 * http://peteryxu.wordpress.com/2014/01/25/publishing-tizen-ivi-canbus-data-to-the-cloud/
 
 * http://false.ekta.is/2011/06/mqtt-dissector-decoder-for-wireshark/
