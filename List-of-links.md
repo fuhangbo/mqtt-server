@@ -951,6 +951,18 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * https://rndm.io/go-and-mqtt/
 * https://github.com/alsm/gochat-mqtt
 
+* https://www.youtube.com/watch?v=RNSCWHd95Ho&feature=youtu.be
+
+* http://fr.slideshare.net/jvermillard/iot-toulouse-introduction-mqtt
+
+* https://github.com/bluewindthings/recipe_notifycommand/
+
+* http://ianskerrett.wordpress.com/2014/05/03/how-to-categorize-the-internet-of-things/
+
+* http://blogg.bouvet.no/2014/03/10/an-internet-of-things-demo-using-raspberry-pi-arduino-minecraft-and-mqtt/
+
+* https://torlus.github.io/2014/05/11/mosquitto-twister/
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
