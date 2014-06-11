@@ -20,3 +20,5 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 
 *  [#mqtt](http://twitter.com/search/realtime/%23mqtt) - the common hashtag
 *  [mqttorg](http://twitter.com/mqttorg) - the community Twitter ID
+*  [m2mqtt](http://twitter.com/m2mqtt) - M2Mqtt project Twitter ID
+*  [gnatmq](http://twitter.com/gnatmq) - GnatMQ broker project Twitter ID
