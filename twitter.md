@@ -15,6 +15,7 @@ There is a large community of people involved with MQTT on Twitter. If you wish 
 *  [kellogh](http://twitter.com/kellogh) - Tim Kellogg
 *  [joerg_wende](http://twitter.com/joerg_wende) - Joerg Wende
 *  [francoisvdm](https://twitter.com/francoisvdmerwe) - Francois van der Merwe
+*  [maiorfi](http://twitter.com/maiorfi) - Lorenzo Maiorfi (XBee Mqtt GW, ZWave Mqtt GW, BLE Mqtt GW)
 
 ## Projects and sites
 
