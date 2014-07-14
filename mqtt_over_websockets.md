@@ -5,6 +5,7 @@ There are a couple of options
  1.  IBM's [MQ 7.5](http://www-01.ibm.com/software/websphere/subscriptionandsupport/compare-mq-versions.html) comes with websockets support
  2.  The Mosquitto broker has [a Javascript client with an example running](http://test.mosquitto.org/ws.html)
  3.  The [HiveMQ MQTT broker](http://www.hivemq.com) has native websockets support.
+ 4.  [Mosca](http://mosca.io) node.js-based broker has native websockets support.
 
 The v3.1 protocol can flow as is but there are a couple of other WebSocket features that need to be specified to provide inter-operability. These are discussed on [the Eclipse Paho wiki](http://wiki.eclipse.org/Paho/Paho_Websockets) and both the IBM and Mosquitto implementations have collaborated on these. HiveMQ also implements these behaviours.
 
