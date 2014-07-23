@@ -126,6 +126,9 @@ Check with the provider for the current status of your preferred language implem
 
 *  ["MA9B" zip of 1/2 dozen mobile clients source code including Objective-C](http://www-933.ibm.com/support/fixcentral/swg/selectFix?product=ibm%2FWebSphere%2FWebSphere+MQ&fixids=1.0.0.1-WS-MQCP-MA9B&source=dbluesearch&function=fixId&parent=ibm/WebSphere)
 
+####OCaml
+* [mqtt_client](https://github.com/philtomson/mqtt_client)
+
 ####Perl
 
 *  [net-mqtt-perl](https://github.com/beanz/net-mqtt-perl)
