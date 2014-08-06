@@ -1,8 +1,10 @@
 Differences between versions 3.1.0 and 3.1.1 of the MQTT specification:
 
-**3.1.0 specification:** http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/mqtt-v3r1.html
+**3.1.0 specification:**
+http://public.dhe.ibm.com/software/dw/webservices/ws-mqtt/mqtt-v3r1.html
 
-**3.1.1 specification:** http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
+**3.1.1 specification:**
+http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 
 
 | No. | Description                                       | Reference in 3.1.1 spec     |
