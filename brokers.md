@@ -76,6 +76,6 @@ As node.js MQTT broker can [ Mosca](https///github.com/mcollina/mosca ) be plugg
 **More information on brokers**
 
 
-*  [compare the capabilities](server_support) of different brokers
+*  [compare the capabilities](server-support) of different brokers
 
 *  see some of the [public brokers](public_brokers) available for testing on the wiki
