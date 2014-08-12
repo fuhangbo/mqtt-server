@@ -18,3 +18,8 @@ http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 | 7.  | ClientId MAY be restricted to alphanumeric chars  | 3.1.3.1 Client Identifier   |
 | 8.  | CONNACK has new "session present" flag            | 3.2.2.2 Session Present     |
 | 9.  | SUBACK can now indicate failure                   | 3.9.3 Suback Payload        |
+
+
+## Terminology changes
+
+* MQTT **Broker** is now MQTT **Server**
