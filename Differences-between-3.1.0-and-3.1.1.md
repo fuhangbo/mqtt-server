@@ -16,7 +16,7 @@ http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 | 5.  | ClientId MAY be zero bytes long                      | 3.1.3.1 Client Identifier   |
 | 6.  | ClientId MUST actually be UTF-8                      | 3.1.3.1 Client Identifier   |
 | 7.  | ClientId MAY be restricted to alphanumeric chars     | 3.1.3.1 Client Identifier   |
-| 8.  | CONNACK has an extra byte for "session present" flag | 3.2.2.2 Session Present     |
+| 8.  | CONNACK has new "session present" flag               | 3.2.2.2 Session Present     |
 | 9.  | SUBACK can now indicate failure                      | 3.9.3 Suback Payload        |
 
 
