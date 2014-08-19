@@ -7,7 +7,7 @@ The format is like this:
 
     mqtt[s]://[username][:password]@host.domain[:port]
 
-A typical use for this is to provide the details of a MQTT broker in an environment variable. The suggested name for this variable is 'MQTT_BROKER'.
+A typical use for this is to provide the details of a MQTT broker in an environment variable. The suggested name for this variable is 'MQTT_SERVER'.
 
 ### Scheme
 The scheme part describes the protocol to use to communicate with the server. It can either be 'mqtt' for unencrypted communication or 'mqtts' to wrap up to MQTT protocol in a secure TLS encrypted connection.
