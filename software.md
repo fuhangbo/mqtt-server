@@ -1,8 +1,6 @@
-~~NOTOC~~
 ## Software
 
-
-*  [Brokers/servers](brokers)
+*  [Brokers/servers](servers)
 
 *  [Client libraries](libraries)
 
