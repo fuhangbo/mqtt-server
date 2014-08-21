@@ -963,6 +963,48 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 * https://torlus.github.io/2014/05/11/mosquitto-twister/
 
+* https://www-304.ibm.com/connections/blogs/aim/entry/protocol_that_powers_the_internet_of_things?lang=en_us
+
+* http://m2mqtt.wordpress.com/mqtt-and-azure-device-gateway/
+
+*  http://www.rickgaribay.net/archive/2014/05/09/visual-studio-live-chicago-recap-from-the-internet-of-things.aspx
+
+* https://github.com/rickggaribay/IoT
+
+* http://mbed.org/teams/mqtt/
+
+* https://github.com/atamariya/iot
+
+* https://github.com/hivemq/hivemq-hello-world-plugin
+* https://github.com/sisomm/iot-concepts
+* https://github.com/mathias-dietrich/osc-mqtt-bridge
+* https://github.com/vsaw/gnunet-mqtt
+* http://byteatlas.blogspot.com/2014/05/long-polling-nodejs-netty-worklight.html
+
+* https://github.com/justinribeiro/glass-gdk-lowfreq-mqtt-live-card
+
+* https://pypi.python.org/pypi/xively-mqtt/0.1dev
+
+* https://www.ibm.com/developerworks/community/blogs/c565c720-fe84-4f63-873f-607d87787327/entry/mqtt_a_discussion_on_clemens_vasters_post?lang=en
+
+* http://www.bluewind.it/index.asp?menu=7&menu1=212&menu2=944
+* https://www.carriots.com/tutorials/send_stream/mqtt
+* http://www.netways.de/index.php?id=4605&L=1
+* https://blog.carriots.com/mqtt-support-and-new-electric-imp-tutorial/
+
+* http://windowsdeveloper.de/news/M2Mqtt-ist-ein-NETClient-fuer-das-Internet-Dinge-170860
+* http://m2mqtt.wordpress.com/mqtt-on-beaglebone-with-windows-embedded-compact-2013/
+* https://2lemetry.atlassian.net/wiki/pages/viewpage.action?pageId=15335494
+
+* http://engineering.lovebyte.us/making-messaging-fast-with-mqtt/
+* https://github.com/lovebyte/Lavender
+
+* https://github.com/dpjanes/iotdb-smartthings
+
+* http://www.dioty.co/
+
+* https://github.com/sumnerboy12/mqtt-gpio-monitor
+
 **Presentations**
 
 * http://www.slideshare.net/andypiper/mqtt-27769811
@@ -974,6 +1016,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://www.slideshare.net/michaeljohnkoster/mqtt-rest-bridge
 * http://www.slideshare.net/pizak/federated-identity-for-iot-with-oauth2
 * http://www.slideshare.net/JoeSpeed/connecting-cars-with-mqtt-and-ibm-message-sight-feb-6-2014-joe-speed
+* http://www.slideshare.net/rickgaribay/from-the-internet-of-things-to-intelligent-systems-a-developers-primer-garibay-final-34875117
+
 
 
 **“x” vs MQTT**
@@ -1008,6 +1052,9 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://c-mobberley.com/wordpress/index.php/2013/10/03/raspberry-pi-hosting-node-red-take-the-crap-out-of-developing-automation-the-internet-of-things-iot/
 
 * http://learn.adafruit.com/raspberry-pi-hosting-node-red/what-is-node-red
+* http://fab-lab.eu/blueiot/how-to-use-blueiot-with-node-red/
+* http://blogg.bouvet.no/2014/08/04/node-red-how-it-simplifed-my-iot-project-and-how-you-can-rapidly-prototype-for-the-internet-of-things/
+* https://www.ibm.com/developerworks/community/blogs/mobileblog/entry/live_tweeting_a_marathon_with_mqtt_node_red_and_ibm_messagesight2?lang=en
 
 
 **MQTT-SN**
@@ -1025,6 +1072,8 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 * http://www.housahedron.co.uk/2014/01/06/our-mqtt-sn-implementation-so-far/
 * https://github.com/dgomes/MELGA
 * https://github.com/alsm/gnatt
+* https://www.youtube.com/watch?v=E2TbOGvzQI4&list=UUKrD_GYN3iDpG_uMmADPzJQ
+* https://github.com/ty4tw/MQTT-SN
 
 
 
@@ -1034,7 +1083,7 @@ mosquitto_sub -h localhost -p 1883 -t \$SYS/broker/version
 
 
 
-**Eclipse M2M**
+**Eclipse IoT**
 
 * [http://www.eweek.com/enterprise-apps/eclipse-foundations-m2m-internet-of-things-efforts-gain-momentum/][303]
 * [http://jaxenter.com/discussing-m2m-at-eclipse-with-ian-skerrett-and-benjamin-cabe-47852.html][304]
