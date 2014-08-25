@@ -26,11 +26,12 @@ http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 ## Other more general changes
 
 * Flags in the fixed header are now specific to the packet type.
-
+* Clarifications to storing/clearing 0 byte retained messages
 
 ## Terminology changes
 
 * MQTT **Broker** is now MQTT **Server**
 * **Message ID** is now **Packet ID**
 * **Message Type** is now **Packet Type**
-* Subscribe and Unsubscribe take topic paths, rather than topic names
+* Subscribe and Unsubscribe take **Topic Paths**, rather than *Topic names**
+
