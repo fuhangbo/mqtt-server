@@ -18,8 +18,9 @@ http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 | 7.  | ClientId MUST actually be UTF-8                      | 3.1.3.1 Client Identifier   |
 | 8.  | ClientId MAY be restricted to alphanumeric chars     | 3.1.3.1 Client Identifier   |
 | 9.  | CONNACK has new "session present" flag               | 3.2.2.2 Session Present     |
-| 10. | SUBACK can now indicate failure                      | 3.9.3 Suback Payload        |
-| 11. | Clients are allowed to send further Control Packets immediately after sending a CONNECT Packet | 3.1.4 Response
+| 10. | Ensure that DUP isn't set for QoS 0                  | 3.3.1.1 DUP                 |
+| 11. | SUBACK can now indicate failure                      | 3.9.3 Suback Payload        |
+| 12. | Clients are allowed to send further Control Packets immediately after sending a CONNECT Packet | 3.1.4 Response
 
 
 ## Other more general changes
