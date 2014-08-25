@@ -33,3 +33,4 @@ http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html
 * MQTT **Broker** is now MQTT **Server**
 * **Message ID** is now **Packet ID**
 * **Message Type** is now **Packet Type**
+* Subscribe and Unsubscribe take topic paths, rather than topic names
