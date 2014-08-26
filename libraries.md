@@ -70,6 +70,10 @@ Check with the provider for the current status of your preferred language implem
 
 *  [Eclipse Paho Go](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.golang.git/)
 
+####Haskell
+
+* [mqtt-hs](http://hackage.haskell.org/package/mqtt-hs)
+
 ####Java
 
 *  [Eclipse Paho Java](http://git.eclipse.org/c/paho/org.eclipse.paho.mqtt.java.git/)
