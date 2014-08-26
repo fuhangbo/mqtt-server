@@ -7,7 +7,7 @@ It is possible to use libmosquitto on iOS. [Marquette](http://github.com/njh/mar
 There is also an [Objective-C implementation of a client](https///github.com/m2mIO/mqttIO-objC) from the m2m.io team. This ships with an Xcode project which contains a simple iOS publish/subscribe client, HelloMQTT.
 
 Yet another IOS simple example. https://github.com/tipih/Simple_MQTT
-This is working on IO7 with ARC. It also works with TLS.
+This is working on IOS7 with ARC. It also works with TLS.
 
 
 *  [mqtt-prowl](https///github.com/jpmens/mqtt-prowl) - Subscribe to topics on an MQTT broker and notify via Prowl
