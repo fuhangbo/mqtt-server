@@ -1,5 +1,10 @@
 # Welcome to the MQTT community wiki
 
+> Currently, content here is in transition from the "old" mqtt.org site and there are many broken links due to the way Github and Dokuwikis differ - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) tab at the top.
+
+> Some of the links are placeholders for information we want to include, but that no-one has added yet. This is a constant work-in-progress - together we can make it better!
+***
+
 Our goal is to collect useful content to help users and developers navigate around the MQTT community and understand how best to make use of the technology. Let's bring together documentation, code snippets, and links to good sources of information. Feel free to contribute!
 
 Content covers:
@@ -8,11 +13,7 @@ Content covers:
 * implementations and programming models
 * use cases and examples 
 
-If you have a good example or know of some online information which is not represented here, please help to edit this wiki. 
-
-Some of the links are placeholders for information we want to include, but that no-one has added yet. It's a constant work-in-progress - together we can make it better!
-
-> Currently the content is in transition from the "old" mqtt.org site - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) tab up top.
+If you have a good example or know of some online information which is not represented here, **please help to edit this wiki**. 
 
 ## Introduction
 * [Basic Concepts](Basic Concepts)
@@ -39,11 +40,11 @@ Some of the links are placeholders for information we want to include, but that 
 *  [Useful presentations](Useful presentations)
 *  [Server support](Server support)
 
-Some links to articles and tutorials can be found via the [Documentation](http://mqtt.org/documentation) page.
--- FIXME these should move into the [technical articles](technical articles) and [blog posts](blog posts) pages
+Some links to articles and tutorials can be found via the legacy [Documentation](http://mqtt.org/documentation) page.
+-- *FIXME* these should move into the [technical articles](technical articles) and [blog posts](blog posts) pages
 
-The [Frequently Asked Questions](http://mqtt.org/faq) page also has some useful material if you are getting started.
--- FIXME these should be migrated into the [questions](questions) page
+The legacy [Frequently Asked Questions](http://mqtt.org/faq) page also has some useful material if you are getting started.
+-- *FIXME* these should be migrated into the [questions](questions) page
 
 ## Community
 *  [Get Involved](http://mqtt.org/get-involved) has links to the mailing list, IRC, etc.
