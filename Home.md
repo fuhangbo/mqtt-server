@@ -1,6 +1,6 @@
 # Welcome to the MQTT community wiki
 
-> Currently, content here is in transition from the "old" mqtt.org site and there are many broken links due to the way Github and Dokuwikis differ - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) tab at the top.
+> Currently, content here is in transition from the "old" mqtt.org site and there are many broken links due to the way Github and Dokuwikis differ - find a full list of pages on the [**Pages**](https://github.com/mqtt/mqtt.github.io/wiki/_pages) sidebar.
 
 > Some of the links are placeholders for information we want to include, but that no-one has added yet. This is a constant work-in-progress - together we can make it better!
 ***
