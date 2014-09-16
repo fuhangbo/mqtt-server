@@ -3,7 +3,7 @@
 ## Specification
 The current formal protocol specification can be found at:
 
-*  [MQTT v3.1 specification](http://www.ibm.com/developerworks/webservices/library/ws-mqtt/index.html)
+*  [MQTT v3.1.1 specification](http://docs.oasis-open.org/mqtt/mqtt/v3.1.1/mqtt-v3.1.1.html)
 
 ## Clarifications
 
@@ -63,4 +63,3 @@ Ideas (and reasons for why they may be required) are being collected here:
 *  [Extended ClientID](Extended ClientID)
 
 *  [Short usernames and passwords](Short usernames and passwords)
-
